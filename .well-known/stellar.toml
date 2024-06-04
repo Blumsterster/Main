@@ -6,9 +6,9 @@ ACCOUNTS=[
 
 [DOCUMENTATION]
 ORG_NAME="Blum"
-ORG_URL="https://www.blum-stellar.com/"
+ORG_URL="https://www.blum-stellar.org/"
 ORG_DESCRIPTION="At Blum, we believe in making your crypto journey not just profitable, but also enjoyable and interactive"
-ORG_LOGO="https://www.blum-stellar.com/blum.png"
+ORG_LOGO="https://www.blum-stellar.org/blum.png"
 
 
 [[CURRENCIES]]
@@ -19,4 +19,4 @@ issuer="GADJRWBZWBZCIYFIG2NNQQMOSFKUWA4GDXO3HFKNK6IKFMZYXEJKRNEO"
 anchor_asset_type="crypto"
 name="Blum"
 desc="At Blum, we believe in making your crypto journey not just profitable, but also enjoyable and interactive"
-image="https://www.blum-stellar.com/blum.png"
+image="https://www.blum-stellar.org/blum.png"
